@@ -1,4 +1,6 @@
 ### Hello, I'm Nail' 👋
+Связь со мной:  
+[![tg](https://camo.githubusercontent.com/03ba074e0bfdf03740558814781ed0c1190958736966a5a8eb5356c89ab289bb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656c656772616d2d3237413745373f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d)](https://t.me/nailio23)
 
 <!--
 **Nailioo/Nailioo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

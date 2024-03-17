@@ -5,11 +5,28 @@
 <h4 align="left">Я аналитик данных с техническим образованием в области энергетики👨‍💻</h4>
 <h4 align="left">Связь со мной: <a href="https://t.me/nailio23"><img src="https://camo.githubusercontent.com/03ba074e0bfdf03740558814781ed0c1190958736966a5a8eb5356c89ab289bb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656c656772616d2d3237413745373f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d" alt="tg"></a>
 <h2 align="left">🛠️ Языки и инструменты :</h4>
-<img src="https://camo.githubusercontent.com/176535db89d20559161e69974fed76d2101b345c0a034a2ae3a82cb2e2f42901/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d4646463f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e" height="30"/>
-<img src="https://camo.githubusercontent.com/da027079ccf94fa4b4944c31991d83a6d205d17b78b35f5df74b73de6a2332fe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70616e6461732d77686974653f6c6f676f3d70616e646173266c6f676f436f6c6f723d626c7565267374796c653d666f722d7468652d6261646765" height="30"/>
-<img src="https://camo.githubusercontent.com/20a27700804acdabda6c74063b7b61a37ccb0af10fc412fd229c006ff397478d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e756d70792d77686974653f6c6f676f3d6e756d7079266c6f676f436f6c6f723d626c7565267374796c653d666f722d7468652d6261646765" height="30"/>
-<img src="https://camo.githubusercontent.com/3e2ae3f4876bddb13bc807fa810df38491fea46076d1f5fcb1ae28433df389c3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a7570797465725f4e6f7465626f6f6b2d4646463f7374796c653d666f722d7468652d6261646765266c6f676f3d4a757079746572" height="30"/>
-<img src="https://camo.githubusercontent.com/317deacab8b76427e3055c39199ac23c1d09699098327690178ff9af3611d0f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d436c69636b686f7573652d4646463f7374796c653d666f722d7468652d6261646765266c6f676f3d436c69636b686f757365" height="30"/>
+<div>
+  <img src="https://img.shields.io/badge/python-white?logo=python&style=for-the-badge" title="Python" alt="Python" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/pandas-white?logo=pandas&logoColor=blue&style=for-the-badge" title="Pandas" alt="Pandas" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/numpy-white?logo=numpy&logoColor=blue&style=for-the-badge" title="Numpy" alt="Numpy" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/plotly-white?logo=plotly&logoColor=blue&style=for-the-badge" title="Plotly" alt="Plotly" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Scipy-white?logo=Scipy&logoColor=black&style=for-the-badge" title="Scipy" alt="Scipy" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Jupyter_notebook-white?logo=Jupyter&style=for-the-badge" title="Jupyter" alt="Jupyter" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Clickhouse-white?logo=Clickhouse&style=for-the-badge" title="ClickHouse" alt="ClickHouse" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/redash-white?logo=redash&logoColor=black&style=for-the-badge" title="Redash" alt="Redash" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Tableau-white?logo=Tableau&s&logoColor=yellow&style=for-the-badge" title="Airflow" alt="Airflow" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/github-white?logo=github&logoColor=black&style=for-the-badge" title="GitHub" alt="GitHub" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Airflow-white?logo=Airflow&style=for-the-badge" title="Airflow" alt="Airflow" height="40"/>&nbsp;
+
+  
+  
+</div>  
+👨‍🔧 Что я умею:
+<ul>
+<li>Проведение А/В тестов и bootstrap, регрессионного и когортного анализа с помощью python
+<li>Формирование дашбордов
+<li>Расчет ключевых метрик продукта: ARPU, ARPPU, retention, conversion, churn rate
+</ul>
 <!--
 **Nailioo/Nailioo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

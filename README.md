@@ -1,10 +1,17 @@
-<h1 align="center">Hi there, I'm Nail'</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Привет, я Наиль!</h1>
+<p align="center">
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+</p>
 
-<h2 align="left">Обо мне :</a>
-<h4 align="left">Я аналитик данных с техническим образованием в области энергетики👨‍💻</h4>
-<h4 align="left">Связь со мной: <a href="https://t.me/nailio23"><img src="https://camo.githubusercontent.com/03ba074e0bfdf03740558814781ed0c1190958736966a5a8eb5356c89ab289bb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656c656772616d2d3237413745373f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d" alt="tg"></a>
-<h2 align="left">🛠️ Языки и инструменты :</h2>
+## Обо мне:
+### 🚀 Аналитик данных с техническим образованием в области энергетики 👨‍💻
+
+### Связь со мной:
+[![Telegram Badge](https://img.shields.io/badge/-nailio23-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/nailio23)](https://t.me/nailio23)
+[![Email Badge](https://img.shields.io/badge/-nail0820%40yandex.ru-red?style=flat-square&logo=Mail.ru&logoColor=white)](mailto:nail0820@yandex.ru)
+
+
+## 🛠️ Языки и инструменты:
 <div>
   <img src="https://img.shields.io/badge/python-white?logo=python&style=for-the-badge" title="Python" alt="Python" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/pandas-white?logo=pandas&logoColor=blue&style=for-the-badge" title="Pandas" alt="Pandas" height="40"/>&nbsp;
@@ -17,16 +24,16 @@
   <img src="https://img.shields.io/badge/Tableau-white?logo=Tableau&s&logoColor=yellow&style=for-the-badge" title="Airflow" alt="Airflow" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/github-white?logo=github&logoColor=black&style=for-the-badge" title="GitHub" alt="GitHub" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Airflow-white?logo=Airflow&style=for-the-badge" title="Airflow" alt="Airflow" height="40"/>&nbsp;
+</div>
 
-  
-  
-</div>  
-👨‍🔧 Что я умею:
-<ul>
-<li>Проведение А/В тестов и bootstrap, регрессионного и когортного анализа с помощью python
-<li>Формирование дашбордов
-<li>Расчет ключевых метрик продукта: ARPU, ARPPU, retention, conversion, churn rate
-</ul>
+## 👨‍🔧 Мои навыки:
+- Проведение A/B тестов, bootstrap, регрессионного и когортного анализа с использованием Python.
+- Создание информативных дашбордов.
+- Расчет ключевых метрик продукта: ARPU, ARPPU, retention, conversion, churn rate.
+
+Не стесняйтесь связаться со мной! Давайте сотрудничать и вместе творить! 🌟
+
+
 <!--
 **Nailioo/Nailioo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

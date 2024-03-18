@@ -7,8 +7,9 @@
 ### 🚀 Аналитик данных с техническим образованием в области энергетики 👨‍💻
 
 ### Связь со мной:
-[![Telegram Badge](https://img.shields.io/badge/-nailio23-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/nailio23)](https://t.me/nailio23)
-[![Email Badge](https://img.shields.io/badge/-nail0820%40yandex.ru-red?style=flat-square&logo=Mail.ru&logoColor=white)](mailto:nail0820@yandex.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-0b0038?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nailio23)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0b0038?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nailkhusnetdinov)
+[![Email Badge](https://img.shields.io/badge/Mail-0b0038?style=for-the-badge&logo=Mail&logoColor=white)](mailto:nail0820@yandex.ru)
 
 
 ## 🛠️ Языки и инструменты:
